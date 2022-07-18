@@ -1,6 +1,6 @@
 # go-test
 
-# Running server first time please use with command `init_user` to init user
+# Running server first time please use with command `init_user` to init user (if not have any test.db)
 
 `go run main.go init_user`
 
